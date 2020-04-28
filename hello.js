@@ -2,5 +2,5 @@
 alert("test")
 alert("hi")
 
-hello("iii")
-alert("test pr when open")
+hello("what you want me to change??")
+alert("test pr when openning")
