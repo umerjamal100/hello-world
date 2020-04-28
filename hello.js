@@ -1,4 +1,6 @@
 
 alert("test")
 alert("hi")
-console.log("test")
+
+hello("what you want me to change??")
+alert("test pr when openning")
